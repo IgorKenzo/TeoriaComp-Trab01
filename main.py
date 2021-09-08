@@ -1,9 +1,12 @@
 from MT import MT
 
 def main() :
-    mt = MT("entrada.txt")
+    # mt = MT("entrada.txt")
     # mt.showConfig()
-    mt.run()
+    # mt.run()
+
+    mt2 = MT("entrada2.txt")
+    mt2.run()
 
 
 
